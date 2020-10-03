@@ -3,7 +3,7 @@
 
 This Project is for analysing (Histogram clustering) using Spark and Scala. 
 
-Scripts to build and run this code on Comet are provided. 
+Scripts to build and run this code on Comet (https://www.sdsc.edu/support/user_guides/comet.html) are provided. 
 
 The main program takes one argument: 
 
